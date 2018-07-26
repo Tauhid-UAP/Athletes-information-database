@@ -1,0 +1,70 @@
+Messi
+Argentina
+31
+1.700000
+FC Barcelona
+Forward
+$280 Million
+Neymar
+Brazil
+26
+1.750000
+PSG
+Forward
+$90 Million
+Ronaldo
+Portugal
+33
+1.830000
+Juventus
+Forward
+$400 Million
+Ozil
+Germany
+30
+1.800000
+Real Madrid
+Midfielder
+$15.6 Million
+Xavi
+Spain
+38
+1.700000
+FC Barcelona
+Midfielder
+$10 Million
+Suarez
+Uruguay
+31
+1.820000
+FC Barcelona
+Forward
+$15.8 Million
+Thiago Silva
+Brazil
+34
+1.830000
+PSG
+Defender
+$12 Million
+William
+Brazil
+30
+1.750000
+Chelsea
+Midfielder
+$2.5 Million
+Sergio Ramos
+Spain
+32
+1.800000
+Real Madrid
+Defender
+$15 Million
+S. Auguero
+Argentina
+30
+1.720000
+Man City
+Forward
+$11.44 Million
